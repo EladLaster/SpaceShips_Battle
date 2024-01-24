@@ -21,14 +21,15 @@ script - [click here](https://github.com/EladLaster/SpaceShips_Battle/blob/main/
 
 script - [click here](https://github.com/EladLaster/SpaceShips_Battle/blob/main/Assets/Scripts/3-collisions/HealthManager.cs)
 
-תקפיד המחלקה DestroyByLaser2D היא ללייזר אויבים - גורמת לאויב להתפצוץ במקרה של מגע לייזר איתו.
+תפקיד המחלקה DestroyByLaser2D היא ללייזר אויבים - גורמת לאויב להתפצוץ במקרה של מגע לייזר איתו.
 
 script - [click here](https://github.com/EladLaster/SpaceShips_Battle/blob/main/Assets/Scripts/3-collisions/DestroyByLaser2D.cs)
 
 
-תקפיד המחלקה DestroyOnTrigger2D היא לשחקנים ולאויבים - גורמת לשחקן ולאויב להתפוצץ במקרה של מגע בין שניהם.
+תפקיד המחלקה DestroyOnTrigger2D היא לשחקנים ולאויבים - גורמת לשחקן ולאויב להתפוצץ במקרה של מגע בין שניהם כמו כן בודקת כמה חיים נשארו לשחקן.
 
 script - [click here](https://github.com/EladLaster/SpaceShips_Battle/blob/main/Assets/Scripts/3-collisions/DestroyOnTrigger2D.cs)
 
 כל שאר המחלקות בירושה מהפרוייקט הנתון.
+כמו כן נעשו שינויים קטנים בחלקם בשביל שיעבדו עם הסקריפטים החדשים.
 
