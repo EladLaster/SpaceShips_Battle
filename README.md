@@ -9,7 +9,6 @@
        Player 1: up - up arrow, down - down arrow, right - right arrow, left - left arrow, shoot - SPACE
 
        Player 2: up - w, down - s, right - d, left - a, shoot -TAB
-       
 קישורים ל scripts :
 
 תפקיד המחלקה BlockThePlayer היא לאיקון של השיקוי - השחקן שלוקח אותו יכול לגרום לשחקן היריב לא לירות למשך 3 שניות.
