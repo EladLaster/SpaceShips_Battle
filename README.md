@@ -2,11 +2,14 @@
 
 ## to see the game [Click Here](https://youtu.be/_MWbMWNeH0c)
 
-### מטרת המשחק : משחק 1 נגד 1 , לירות באויבים להשיג נקודות וליהשאר כמה שיותר זמן בחלל.
+מטרת המשחק : משחק 1 נגד 1 , לירות באויבים להשיג נקודות וליהשאר כמה שיותר זמן בחלל.
 
-### מקשים : Player 1: up - up arrow, down - down arrow, right - right arrow, left - left arrow, shoot - SPACE. Player 2: up - w, down - s, right - d, left - a, shoot -TAB.
+מקשים :
+       Player 1: up - up arrow, down - down arrow, right - right arrow, left - left arrow, shoot - SPACE
+
+       Player 2: up - w, down - s, right - d, left - a, shoot -TAB
        
-### קישורים ל scripts :
+קישורים ל scripts :
 
 תפקיד המחלקה BlockThePlayer היא לאיקון של השיקוי - השחקן שלוקח אותו יכול לגרום לשחקן היריב לא לירות למשך 3 שניות.
 script - [click here](https://github.com/EladLaster/SpaceShips_Battle/blob/main/Assets/Scripts/3-collisions/BlockThePlayer.cs)
@@ -23,6 +26,7 @@ script - [click here](https://github.com/EladLaster/SpaceShips_Battle/blob/main/
 תפקיד המחלקה DestroyOnTrigger2D היא לשחקנים ולאויבים - גורמת לשחקן ולאויב להתפוצץ במקרה של מגע בין שניהם כמו כן בודקת כמה חיים נשארו לשחקן.
 script - [click here](https://github.com/EladLaster/SpaceShips_Battle/blob/main/Assets/Scripts/3-collisions/DestroyOnTrigger2D.cs)
 
-כל שאר המחלקות בירושה מהפרוייקט הנתון.
-כמו כן נעשו שינויים קטנים בחלקם בשביל שיעבדו עם הסקריפטים החדשים.
+כל שאר המחלקות בירושה מהפרוייקט הנתון
+
+כמו כן נעשו שינויים קטנים בחלקם בשביל שיעבדו עם הסקריפטים החדשים
 
